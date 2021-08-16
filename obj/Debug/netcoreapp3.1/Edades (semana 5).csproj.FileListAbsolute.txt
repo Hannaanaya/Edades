@@ -1,0 +1,14 @@
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\obj\Debug\netcoreapp3.1\Edades (semana 5).csproj.AssemblyReference.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\obj\Debug\netcoreapp3.1\Edades (semana 5).AssemblyInfoInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\obj\Debug\netcoreapp3.1\Edades (semana 5).AssemblyInfo.cs
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\obj\Debug\netcoreapp3.1\Edades (semana 5).csproj.CoreCompileInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\bin\Debug\netcoreapp3.1\Edades (semana 5).exe
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\bin\Debug\netcoreapp3.1\Edades (semana 5).deps.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\bin\Debug\netcoreapp3.1\Edades (semana 5).runtimeconfig.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\bin\Debug\netcoreapp3.1\Edades (semana 5).runtimeconfig.dev.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\bin\Debug\netcoreapp3.1\Edades (semana 5).dll
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\bin\Debug\netcoreapp3.1\Edades (semana 5).pdb
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\obj\Debug\netcoreapp3.1\Edades (semana 5).dll
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\obj\Debug\netcoreapp3.1\Edades (semana 5).pdb
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\obj\Debug\netcoreapp3.1\Edades (semana 5).genruntimeconfig.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\Edades (semana 5)\obj\Debug\netcoreapp3.1\Edades (semana 5).GeneratedMSBuildEditorConfig.editorconfig
